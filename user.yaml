@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: yang-benny-liu # This must match with your github account name
+  name: <yang-benny-liu> # This must match with your github account name
 spec:
   profile:
-    displayName: backstage
+    displayName: <backstage>
 memberOf: []
